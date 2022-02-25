@@ -2,7 +2,7 @@
 
 **人工魚礁、保護礁區資訊**
 
-target: https://reurl.cc/0zgg6A
+target: https://www.fa.gov.tw/cht/ResourceOtherZones/
 
 **Demo**
 
